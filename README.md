@@ -18,7 +18,7 @@ Here I will show you how to set it up so you can start developing your own inter
 
 ## Installing
 
-* Download the latest version of the script
+* [Download](https://github.com/LuisSanchez-Dev/Interactive-Limitless/archive/master.zip) the latest version of the script
 * Extract the folder in your Scripts folder
 
 ## Using in Python script
