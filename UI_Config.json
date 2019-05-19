@@ -1,0 +1,18 @@
+{
+    "output_file": "config.json",
+
+    "WebSocketPort": {
+        "type": "numberbox",
+        "value": 15011,
+        "label": "Web socket server port:",
+        "tooltip": "Setup your port to prevent conflicts with other software.",
+        "group": "Advanced"
+    },
+    "TCPSocketPort": {
+      "type": "numberbox",
+      "value": 15010,
+      "label": "TCP socket server port:",
+      "tooltip": "Setup your port to prevent conflicts with other software.",
+      "group": "Advanced"
+    }
+}
