@@ -32,7 +32,7 @@ sys.path.append(os.path.dirname(os.path.realpath(__file__)))
 clr.AddReferenceToFileAndPath('InteractiveLimitless.dll')
 from InteractiveLS import Interaction
 ```
-* Then on your variables initialization part o the script, add the following line:
+* Then on your variables initialization part of the script, add the following line:
 ```python
 global InteractionInstance #Can be any name, this will hold our interaction instance
 ```
