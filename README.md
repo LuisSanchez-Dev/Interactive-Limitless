@@ -1,5 +1,6 @@
 # Interactive Limitless
 A Web Socket / TCP Socket server for use inside Streamlabs Chatbot's scripting API.
+* Use sample: [Interactive Spinning Wheel](https://www.youtube.com/watch?v=2dJHAX0JsOs)
 
 ## Index
 * [Getting Started](#getting-started)
